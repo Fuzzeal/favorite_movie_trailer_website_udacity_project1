@@ -14,7 +14,7 @@ the following files should be in the same directory for the program to run:
 3.	fresh_tomatoes.py - creates the data to HTML file for the website (By Udacity)
 
 Requirement to Run this Project
-    Python 2.x is required to run this project. 
+*   Python 2.x is required to run this project. 
 
 Creator: Isaiah Idubor
 Date: April 25, 2018
